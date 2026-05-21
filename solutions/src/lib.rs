@@ -1,1 +1,1 @@
-mod arrays_hashing;
+pub mod arrays_hashing;
