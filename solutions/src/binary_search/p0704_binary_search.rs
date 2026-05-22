@@ -27,7 +27,7 @@ impl Solution {
             }
         }
 
-        return None;
+        None
     }
 }
 
